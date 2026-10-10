@@ -26,4 +26,5 @@ parcelable QtiPrivacyRegion {
   float cornerRadius;
   android.hardware.graphics.common.Rect rect;
   int index;
+  boolean isDimming;
 }
