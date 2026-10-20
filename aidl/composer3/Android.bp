@@ -21,7 +21,7 @@ aidl_interface {
     versions_with_info: [
         {
             version: "1",
-            imports: ["android.hardware.graphics.composer3-V2"],
+            imports: ["android.hardware.graphics.composer3-V4"],
         },
         {
             version: "2",
